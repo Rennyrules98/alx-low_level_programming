@@ -1,5 +1,7 @@
 #include "main.h"
 
+int _sqrt_test(int n, int naturalSquare);
+
 /**
  *_sqrt_recursion - finds square root using recursion
  *Description:
